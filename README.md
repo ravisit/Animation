@@ -20,15 +20,3 @@ Please use the resources in this directory to complete the following tasks.
 
 * The end result should appear as close as possible to the `FORT - assessment - after.png` mock.
 
-* **This must be submitted separately apart from the other exercises**. It should be zipped so that unzipping and opening the index.html in the browser will yield the expected result.
-
-## Notes
-* Zip all required files and submit the zip file
-
-* Do not alter any of the provided assets
-
-* You are free to include anything else as long as the above tasks are accomplished
-
-* Do not worry about matching the font, only size and color of the text is important
-
-* All tasks are best effort. If you cannot complete any of the required tasks please just include an `EXPLANATION.md` file describing what you tried, what worked, and what didn't.
